@@ -5,6 +5,9 @@ Tutorials at: https://makersportal.com
 
 ![PWM 50% Duty Cycle](./rectangular_pulse_wave_50perc_duty_cycle.png)
 
+## Implements the Fourier series representation of a rectangular wave
+![Fourier Series Equation](https://static1.squarespace.com/static/59b037304c0dbfb092fbe894/t/5e77b105cb34ef3967cec0c9/1584902418947/pulse_wave_fourier_PWM_eqn.png?format=750w)
+
 ##
 ## Specialized for Applications with the MG90S Servo Motor:
 https://makersportal.com/shop/mg90s-micro-servo
