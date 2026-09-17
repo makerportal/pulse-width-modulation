@@ -17,3 +17,7 @@ https://makersportal.com/shop/mg90s-micro-servo
 ## PWM codes for the MG90S servo motor
 
 ![MG90S Servo Codes](https://static1.squarespace.com/static/59b037304c0dbfb092fbe894/t/5e77cb6628dc473dd314d316/1584909398524/servo_pwm_duty_cycles_w_servos.png?format=1000w)
+
+---
+
+Part of the [Maker Portal](https://makerportal.ai) open-source scientific computing and hardware ecosystem. Explore interactive calculators and engineering tools at [makerportal.ai](https://makerportal.ai).
